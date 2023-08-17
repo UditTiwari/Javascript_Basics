@@ -13,3 +13,5 @@ let animals = ["dog","cat","lion"];
 for (let a in animals){
     console.log(animals[a]);
 }
+
+
